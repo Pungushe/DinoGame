@@ -1,0 +1,6 @@
+venv
+data.bak
+data.dat
+data.dir
+.idea
+__pycache__
